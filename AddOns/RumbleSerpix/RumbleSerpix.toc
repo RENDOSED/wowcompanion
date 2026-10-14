@@ -1,0 +1,7 @@
+## Interface: 11509
+## Title: RumbleSerpix
+## Notes: LibSerpix pixel transmission test
+
+Libs\LibStub\LibStub.lua
+Libs\LibSerpix\LibSerpix.xml
+RumbleSerpix.lua
